@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 8 * * *"   # 每天8点执行
     - cron: "0 18 * * *"  # 每天16点执行
+  workflow_dispatch:          # 允许手动触发
 
 jobs:
   sync:
