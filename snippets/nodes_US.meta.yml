@@ -1322,6 +1322,22 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
+- name: 10|US
+  password: HfK3UK4MoXxYUccnp7qzx3Y3o
+  port: 34321
+  server: 209.38.144.136
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 10|美国
+  password: KYIFgW1don6L8TaDBJHynafxZ0
+  port: 4763
+  server: 47.237.23.83
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 10|美国🇺🇸
   password: RKrGw4dSUwK3YAvqdQI8tcqNl0
   port: 34060
@@ -1330,7 +1346,23 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 10,11|@V2rayBaaz
+- name: 10|🇸US
+  password: Wjes5mJnUmH7kwzpgZX5d2BeCs
+  port: 13438
+  server: 143.110.156.170
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 10|🇺🇸美国
+  password: de8854c7-fa17-4266-ae18-50a9732a0c4e
+  port: 3001
+  server: us2.1010991.xyz
+  skip-cert-verify: true
+  sni: us2.1010991.xyz
+  tls: false
+  type: hysteria2
+- name: '10|Channel id: @ShadowProxy66🇺🇸 #1'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
