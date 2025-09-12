@@ -120,6 +120,16 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
+- name: '11|کانال تلگرام : injastvpn@'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36400
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: 11|@V2RAYNG_1378
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -130,21 +140,21 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 11|💎کانفیگ های بیشتر در چنل تلگرا...
+- name: '11|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
-  port: 36300
+  port: 35200
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '11|کانال تلگرام : injastvpn@'
+- name: 11|💎کانفیگ های بیشتر در چنل تلگرا...
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
-  port: 36400
+  port: 36300
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
@@ -196,7 +206,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 11|rya
+- name: '11|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #3'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -212,7 +222,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '11|@Selinc #2'
+- name: '11|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #1'
   password: n9OgQprayM
   port: 443
   server: android.yas-nowin.ir
@@ -220,7 +230,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '11|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #1'
+- name: '11|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2'
   password: zPb5RRsckD
   port: 443
   server: android.yas-nowin.ir
