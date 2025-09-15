@@ -17,7 +17,15 @@ proxies:
   sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
-- name: 11|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها او ر...
+- name: 11| @Hddify
+  password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
+  port: 43429
+  server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: '11|@EXPRESSVPN_420   '
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
@@ -33,7 +41,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 11|ان های ی د نل ترا💎 Config_Raye...
+- name: 11|ا ها  ر ن ترا💎 Config_Rayegan@
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -181,7 +189,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 11|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...
+- name: 11|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دنو ...
   password: zPb5RRsckD
   port: 443
   server: android.yas-nowin.ir
