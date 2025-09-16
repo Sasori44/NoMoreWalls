@@ -1,5 +1,5 @@
 proxies:
-- name: 11|🇩🇪@FreakConfig
+- name: 10|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -7,5 +7,13 @@ proxies:
   server: 176.124.204.248
   skip-cert-verify: true
   sni: ubuntu com
+  tls: false
+  type: hysteria2
+- name: 10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دنو ...
+  password: zPb5RRsckD
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
