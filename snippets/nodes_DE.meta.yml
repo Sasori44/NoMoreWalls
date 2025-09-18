@@ -1,4 +1,12 @@
 proxies:
+- name: 11|🇩🇪@EXPRESSVPN_420 ➠ همه اپراتو...
+  password: 3QlSMKyqLp
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
 - name: 11|🇩🇪𝗻 ➠ همه اپراتورها دنو برامه ...
   password: zPb5RRsckD
   port: 443
@@ -8,7 +16,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 15|DE_speednode_0008
+  name: 15|DE_speednode_0007
   port: 6666
   reality-opts:
     public-key: S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g
