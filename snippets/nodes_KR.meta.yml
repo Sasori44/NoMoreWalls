@@ -1,8 +1,8 @@
 proxies:
-- name: 13|KR_speednode_0010
+- name: 15|KR_speednode_0012
   network: ws
-  port: 50000
-  server: 14.33.140.80
+  port: 12336
+  server: 182.31.70.92
   servername: gaosir.unfeeling.sbs
   skip-cert-verify: false
   tls: true
@@ -12,20 +12,11 @@ proxies:
   ws-opts:
     headers:
       Host: gaosir.unfeeling.sbs
-    path: /Telegram🇨🇳@WangCai2/?ed=2560
-- name: 13|KR_speednode_0011
-  password: test.+
-  port: 30446
-  server: testkr3.ssv.vc
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: test
-- name: 13|KR_speednode_0012
+    path: /Telegram@freecodes/?ed=2560
+- name: 15|KR_speednode_0013
   network: ws
-  port: 50000
-  server: 182.208.209.54
+  port: 50001
+  server: 222.114.57.191
   servername: gaosir.unfeeling.sbs
   skip-cert-verify: false
   tls: true
@@ -35,11 +26,11 @@ proxies:
   ws-opts:
     headers:
       Host: gaosir.unfeeling.sbs
-    path: /Telegram🇨🇳@WangCai2/?ed=2560
-- name: 13|KR_speednode_0013
+    path: /Telegram@freecodes/?ed=2560
+- name: 15|KR_speednode_0014
   network: ws
-  port: 12312
-  server: 211.48.77.114
+  port: 12219
+  server: 121.131.242.29
   servername: gaosir.unfeeling.sbs
   skip-cert-verify: false
   tls: true
@@ -49,4 +40,4 @@ proxies:
   ws-opts:
     headers:
       Host: gaosir.unfeeling.sbs
-    path: /X@节点狂魔/?ed=2560
+    path: /TelegramU0001F1E8U0001F1F3@WangCai2
