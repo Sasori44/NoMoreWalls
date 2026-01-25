@@ -50,5 +50,5 @@ vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.152.4:443?allowInsecure=0&s
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?allowInsecure=0&sni=cnmfangbinxing.fangbinxingnmsl-666.workers.dev&type=ws&host=cnmfangbinxing.fangbinxingnmsl-666.workers.dev&path=/fp=randomized#14%7CUS_speednode_0021
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?allowInsecure=0&sni=cnmfangbinxingnmsl.cnm-fangbinxingnmsl.workers.dev&type=ws&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl.workers.dev&path=/fp=randomized#14%7CUS_speednode_0022
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/x-aniu/?ed=2560security=tls#14%7CUS_speednode_0023
-hhysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2rayAlpha--16
 https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
+hhysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2rayAlpha--16
