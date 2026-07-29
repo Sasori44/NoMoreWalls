@@ -29,16 +29,6 @@ proxies:
   sni: www.refersion.com
   tls: false
   type: hysteria2
-- name: 9|🇩🇪 Telegram = V2RayyNGvpn 2🇩🇪
-  obfs: salamander
-  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
-  password: T-me-V2RayyNGvpn
-  port: 443
-  server: 91.107.178.22
-  skip-cert-verify: true
-  sni: www.refersion.com
-  tls: false
-  type: hysteria2
 - name: 9|🇩🇪 t- me - V2RayyNGvpn 🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
@@ -47,6 +37,13 @@ proxies:
   server: 91.107.178.22
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 9|58@oneclickvpnkeys
+  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
+  port: 8433
+  server: de1-hy2.veilvpn.life
+  sni: de1-hy2.veilvpn.life
   tls: false
   type: hysteria2
 - name: 9|🇩🇪 Telegram= V2RayyNGvpn 🇩🇪2
@@ -70,7 +67,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 13|DE_speednode_0010
+  name: 13|DE_speednode_0002
   network: ws
   port: 2053
   server: 51.89.23.94
