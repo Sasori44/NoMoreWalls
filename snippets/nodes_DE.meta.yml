@@ -7,7 +7,7 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: 9,10|75@oneclickvpnkeys
+- name: 9,10|рҹҘ75@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.169
@@ -23,7 +23,7 @@ proxies:
   sni: ndge4.whit3.net
   tls: false
   type: hysteria2
-- name: '9,10|کانال ا : Free_VPN_CH@'
+- name: '9,10|Ъ©Ш§ЩҶШ§Щ„ Щ„Ш§Щ : Free_VPN_CH...'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -62,13 +62,5 @@ proxies:
   server: de.1.23.h2corp.org
   skip-cert-verify: true
   sni: germany3.h2corp.local
-  tls: false
-  type: hysteria2
-- name: 10|57@oneclickvpnkeys
-  password: 8569e507-8ef7-481d-9108-6bc7f040c2ff
-  port: 9443
-  server: newos.klzvezdi.ru
-  skip-cert-verify: true
-  sni: newos.klzvezdi.ru
   tls: false
   type: hysteria2
