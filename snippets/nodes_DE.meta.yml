@@ -7,7 +7,7 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: 9,10|рҹҘ75@oneclickvpnkeys
+- name: '9|德国 #1'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.169
@@ -23,7 +23,7 @@ proxies:
   sni: ndge4.whit3.net
   tls: false
   type: hysteria2
-- name: '9,10|Ъ©Ш§ЩҶШ§Щ„ Щ„Ш§Щ : Free_VPN_CH...'
+- name: '9,10|کانال ا : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
