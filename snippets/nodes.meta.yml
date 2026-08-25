@@ -456,7 +456,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 9|瑞
+- name: 9,10|74@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8080
   server: 46.229.243.141
@@ -479,6 +479,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 10|67@oneclickvpnkeys
+  password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
+  port: 443
+  server: 177.3.212.155
+  skip-cert-verify: true
+  sni: olp.crsmaps.com
+  tls: false
+  type: hysteria2
 - name: 10|2🏓@oneclickvpnkeys
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -494,7 +502,7 @@ proxies:
   sni: nl7.unlockvpn.online
   tls: false
   type: hysteria2
-- name: 10|151802 | Telegram = t.me/SOSke...
+- name: '10|The irconfiig '
   password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
   port: 10808
   server: nl7.unlockvpn.online
@@ -745,14 +753,6 @@ proxies:
   server: 222.167.212.82
   skip-cert-verify: true
   sni: hopp-legend-se.roxa.org
-  tls: false
-  type: hysteria2
-- name: 10|🇩🇪151846 | ⚡️Telegram = t.me/S...
-  password: hysteria2_fastlane_fyo5j4e7k
-  port: 443
-  server: 91.132.160.243
-  skip-cert-verify: false
-  sni: de6.h.fastlanehosting.ru
   tls: false
   type: hysteria2
 - name: '10|@v2ray313 کانال '
